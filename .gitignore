@@ -1,1 +1,7 @@
+build/
+matrix
 .venv/
+__pycache__/
+A.txt
+B.txt
+C.txt
